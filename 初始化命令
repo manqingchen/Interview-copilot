@@ -1,0 +1,2 @@
+mkdir -p src/{main,renderer,assets}
+touch pnpm-workspace.yaml 
