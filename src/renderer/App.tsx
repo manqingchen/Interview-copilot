@@ -5,6 +5,7 @@ import HistoryPage from './pages/HistoryPage';
 import ProfilePage from './pages/ProfilePage';
 import DevTools from './components/DevTools';
 
+let b = 1;
 function App() {
   const isDev = import.meta.env.DEV;
 
